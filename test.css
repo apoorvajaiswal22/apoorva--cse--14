@@ -1,0 +1,30 @@
+body
+ {
+    background-color: #9cb5dc;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center; 
+}
+
+h1 
+{ 
+    background: lightblue; 
+    padding: 10px; 
+    border-bottom: 2px 
+    solid #777; 
+}
+
+.gallery 
+{ 
+    width: 50%; 
+    gap: 10px;
+    margin-top: 40px;
+    }
+
+.gallery img 
+{ 
+    width: 100%;
+     height: 180px;
+    border: 2px
+    solid #aaa; 
+}
+
